@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-distribution-2.0.1/core/seamless-http-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-distribution-2.0.1/core/seamless-util-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-distribution-2.0.1/core/seamless-xml-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/cdi-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_45/lib/missioncontrol/plugins/javax.annotation_1.2.0.v201401042248.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_45/lib/missioncontrol/plugins/javax.inject_1.0.0.v20091030.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_45/lib/missioncontrol/plugins/javax.servlet_3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-http-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-io-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-client-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-server-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-servlet-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/Work/cling-core-2.0.1-sources/libs/jetty-util-8.1.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ljsachs/AppData/Local/Android/sdk/platforms/android-19/android.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
