@@ -90,7 +90,7 @@ public class StreamClientImpl extends AbstractStreamClient<StreamClientConfigura
 
         // Only register 80, not 443 and SSL
         SchemeRegistry registry = new SchemeRegistry();
-        registry.register(new Scheme("http", 80, PlainSocketFactory.getSocketFactory()));
+        registry.register(new Scheme("http", PlainSocketFactory.getSocketFactory(), 80));
 
         clientConnectionManager = new PoolingClientConnectionManager(registry);
         clientConnectionManager.setMaxTotal(getConfiguration().getMaxTotalConnections());
